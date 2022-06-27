@@ -1,0 +1,5 @@
+type Book {
+  userId: String
+  name: String
+  page: Int
+}

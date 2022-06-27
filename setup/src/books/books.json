@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "userId": "1",
+      "name": "Simyacı",
+      "pages": 184
+    },
+    {
+      "userId": "1",
+      "name": "Bülbülü Öldürmek",
+      "pages": 288
+    },
+    {
+      "userId": "0",
+      "name": "İlahi Komedya",
+      "pages": 838
+    }
+  ]
+}
