@@ -11,12 +11,12 @@ export class UsersService {
     return `This action returns all users`;
   }
 
-  findUser(createUserDto: CreateUserDto) {
-    return 'This action adds a new user';
+  findUser(id: string) {
+    return `This action returns a #${id} user`;
   }
 
-  createUser(id: string) {
-    return `This action returns a #${id} user`;
+  createUser(createUserDto: CreateUserDto) {
+    return 'This action adds a new user';
   }
 
   updateUser(id: string, updateUserDto: UpdateUserDto) {
